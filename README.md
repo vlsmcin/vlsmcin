@@ -7,6 +7,11 @@
 
 - 📫 How to reach me **vlsm@cin.ufpe.br**
 
+## 🚀 Contributions
+- [Deep-Learning-Package-Inspection](https://github.com/Davi-SB/Deep-Learning-Package-Inspection)
+- [Projeto: Predição de Infarto do Miocárdio e Distúrbios de Condução em Sinais de ECG](https://github.com/manbr21/projeto_sinais)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinmelo" height="30" width="40" /></a>

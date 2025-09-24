@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinícius Lima Sá de Melo</h1>
-<h3 align="center">A ML and Data science entusiast, and I'm current a Student Reseacher at Project CIn-Motorola, studying 5G environments.</h3>
+<h3 align="center">A ML and Data science entusiast, and I'm current a Student Reseacher at Project CIn/Motorola, studying 5G environments.</h3>
 
 - 🌱 I’m currently learning **Unsupervised learning, image preprocessing**
 

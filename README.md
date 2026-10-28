@@ -24,7 +24,7 @@ Natural Language Processing pipeline for fake news classification using Python, 
 #### 📦 [Industrial Package Defect Detection](https://github.com/Davi-SB/Deep-Learning-Package-Inspection)
 Computer vision project using transfer learning with EfficientNetB0 to classify package defects, achieving a reported accuracy of 90%.
 
-#### 🤖 Computer Vision for Robotics
+#### 🤖 [Computer Vision for Robotics](https://github.com/Davi-SB/Fish-Eye-Lens-Correction---Defishing)
 Applied research project developed through FACEPE in partnership with Accenture, involving backpack detection with YOLOv8 and fisheye distortion correction for a Unitree Go1 quadruped robot. The solution achieved a 3.5× performance improvement over the previous version.
 
 ### 🧪 Research & Achievements
